@@ -23,6 +23,7 @@ There are 3 predefined programs that operate an electric motor that can operate 
 Its programming is simple:
 
 -Choose one of the 3 programs by rotating the Encoder.
+
 -Start the program by pressing the Rotary Encoder button.
 
 The program given in this repository can be easily modified for other applications, because the number of ON / OFF cycles can be easily modified, as well as their duration.
