@@ -1,4 +1,4 @@
-instead of the classic relay
+
 
 # Power-timer-with-arduino-and-rotary-encoder
 
