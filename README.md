@@ -21,6 +21,7 @@ In the first two cases, we have a countdown counter.Its programming is described
 In the last case we have a timer whose duration and ON / OFF cycles are preset.
 There are 3 predefined programs that operate an electric motor that can operate a mixer (for dough for example).
 Its programming is simple:
+
 -Choose one of the 3 programs by rotating the Encoder.
 -Start the program by pressing the Rotary Encoder button.
 
