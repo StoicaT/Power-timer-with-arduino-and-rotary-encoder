@@ -20,7 +20,7 @@ byte zm=0;//minutesX10
 byte m=0;//minutes
 byte zs=0;//secX10
 byte s=0;//sec.
-byte md=3;// modulo and number total of programs(in this cae,3)
+byte md=3;// modulo and number total of programs(in this case,3)
 int counter;
 
 
