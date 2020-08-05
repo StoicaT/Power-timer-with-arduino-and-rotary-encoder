@@ -27,3 +27,4 @@ Its programming is simple:
 -Start the program by pressing the Rotary Encoder button.
 
 The program given in this repository can be easily modified for other applications, because the number of ON / OFF cycles can be easily modified, as well as their duration.
+More to https://www.instructables.com/id/Power-Timer-With-Arduino-and-Rotary-Encoder/
